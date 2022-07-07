@@ -2,6 +2,11 @@
 
 This repository is created for interview task.
 
+
+Taking average(avg_class) of UDT variable.
+![image](https://user-images.githubusercontent.com/29722241/177867375-298aa539-732a-4f19-b247-8b8820553a8c.png)
+
+
 This is how it looks like at cqlsh.
 
 ![image](https://user-images.githubusercontent.com/29722241/177412982-ea6cd174-256d-4205-a5a4-76551ddf12fe.png)
